@@ -10,9 +10,6 @@ Bu projenin amacı, satış verilerini analiz ederek önemli içgörüleri **anl
 
 ---
 
-## 🖥 Dashboard Önizleme
-
-![Dashboard Preview](dashboard_screenshot.png)
 
 ## 🎬 Dashboard Demo (GIF)
 
